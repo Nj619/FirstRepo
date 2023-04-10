@@ -53,9 +53,10 @@ public class FbLoginTest1 {
 		System.out.println(name);
 		assertEquals(name, "Ninj Jod");
 		
-		System.out.println("Jai Shree Ram");
+		System.out.println("Jai Shree Ram...");
 		
 		System.out.println("Jai Shree Hanuman...");
+		System.out.println("Shree Ganeshay Namh...");
 		
 	}
 }
